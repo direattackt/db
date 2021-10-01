@@ -69,3 +69,11 @@ ib aore iraoceidaorceida oeicrao heniaoe iaocreid acroeirao ear .rc .
  ib icad caid caid caid 
  
  cdia ex
+ 
+ horse
+ 
+ ex
+ ex
+ ex
+ 
+ horse
