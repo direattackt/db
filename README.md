@@ -1,3 +1,37 @@
+What is this?
+
+Scheme generate
+
+An Index 
+Build a generate schema 
+by indexing the meat of 
+when one atom/ent class 
+hits 
+ an
+   another 
+   
+   an
+     an
+       ent 
+       ent x 
+banned 
+      a
+       sex 
+      a
+       key
+      a
+       fast sea 
+      a
+       core 
+      a
+       dill
+       say
+       say
+       
+       do 
+
+
+
 # db
 
 a database
